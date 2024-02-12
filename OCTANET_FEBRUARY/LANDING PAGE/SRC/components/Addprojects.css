@@ -1,0 +1,16 @@
+.addproject
+{
+    box-shadow: 0 0 10px white;
+    border-radius: 2%;
+    height: 98%;
+    backdrop-filter: blur(50px);
+}
+
+#head:hover
+{
+    color: white;
+}
+.ADDPRO{
+    background-image: url('https://cdn.wallpapersafari.com/57/46/dY3eN1.jpg');
+    background-size: cover;
+}

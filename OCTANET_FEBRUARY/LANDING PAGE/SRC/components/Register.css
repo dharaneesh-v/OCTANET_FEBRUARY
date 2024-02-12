@@ -1,0 +1,20 @@
+.RegBody{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQclxm9OQ2DesGM1jrXBCw18YKwBQJvsNhjYQ&usqp=CAU');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: black;
+    backdrop-filter: blur(100px);
+}
+
+.Reg
+{
+    box-shadow: 0 0 10px gray;  
+    border-radius: 5%;  
+}
+.RegPNG
+{
+    height: 500px;
+}
+#sixth{
+    height: 500px;
+}

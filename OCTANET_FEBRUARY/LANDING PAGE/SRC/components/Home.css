@@ -1,0 +1,14 @@
+.Home
+{
+    text-align: center;
+    background-image: url('https://wallpaper.dog/large/5486500.png');
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+.footer
+{
+    border-radius: 2%;
+    background-color: grey ;
+    color: white;
+}

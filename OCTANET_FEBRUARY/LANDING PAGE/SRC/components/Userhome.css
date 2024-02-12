@@ -1,0 +1,32 @@
+.text
+{
+    text-align: left;
+}
+.Usermess
+{
+    box-shadow: 0 0 10px grey;
+    height: 100%;
+    border-radius: 10px;
+}
+.footer
+{
+    background-color:lemonchiffon;
+}
+.feature
+{
+    background-color: beige;
+}
+
+.UHL:hover
+{
+    color: red;
+}
+.logo
+{
+    height: 60px;
+    width:  60px;
+}
+#png1
+{
+    height: 500px;
+}
