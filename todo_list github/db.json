@@ -1,0 +1,24 @@
+{
+  "tasks": [
+    {
+      "task": "LANDING PAGE",
+      "status": "Completed✅",
+      "id": 1
+    },
+    {
+      "task": "TODO LIST USING REACT JS",
+      "status": "Completed✅",
+      "id": 2
+    },
+    {
+      "task": "NPTEL WEEK 4 ASSIGNMENT",
+      "status": "Completed✅",
+      "id": 3
+    },
+    {
+      "task": "EXAMPLE TASK 4",
+      "status": "Not Completed",
+      "id": 4
+    }
+  ]
+}

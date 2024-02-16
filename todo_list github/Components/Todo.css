@@ -1,0 +1,14 @@
+.main{
+    background-image: url('https://tse1.mm.bing.net/th?id=OIP.-1Ec6lmXanM7-9D-TclKugHaEK&pid=Api&P=0&h=180');
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+
+.form
+{
+    color: black;
+    border-radius: 5%;
+    box-shadow: 0 0 10px grey;
+    height: 500px;
+    backdrop-filter: blur(50px)
+}
